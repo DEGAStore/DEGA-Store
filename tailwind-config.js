@@ -3,7 +3,8 @@ tailwind.config = {
     theme: {
         extend: {
             colors: {
-                'altBlack': '#1b1919', // Main background color
+                'SoftBlack': '#232323',
+                'LBlue': '#1475E6',
             },
             screens: {
                 'xs': '480px', // Add xs size

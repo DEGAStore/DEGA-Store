@@ -10,17 +10,17 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #9370db; /* Color of the scrollbar thumb */
+    background: #1475E6; /* Color of the scrollbar thumb */
     border-radius: 0px; /* Rounded corners for the thumb */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #9E7EDF; /* Color of the thumb on hover */
+    background: #1475E6; /* Color of the thumb on hover */
 }
 
 /* For Firefox */
 scrollbar-width: thin; /* Makes the scrollbar thinner */
-scrollbar-color: #9370db #232323; /* thumb color and track color */
+scrollbar-color: #1475E6 #232323; /* thumb color and track color */
 /* Custom scrollbar styles end */
 
 
